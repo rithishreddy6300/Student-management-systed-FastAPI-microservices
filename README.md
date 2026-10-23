@@ -1,0 +1,2 @@
+# Student-management-systed-FastAPI-microservices
+CampusDesk is a student management systed FastAPI microservices connected through an API gatewaym with a React frontend an. It supports administrator registration and login,student and course management, enrollments, and an overview dashboard.Each service uses its own SQLite database, with JWT authentication protecting student and course operations
